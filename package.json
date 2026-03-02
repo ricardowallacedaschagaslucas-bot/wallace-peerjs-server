@@ -1,0 +1,16 @@
+{
+  "name": "wallace-peerjs-server",
+  "version": "1.0.0",
+  "description": "Servidor PeerJS privado para Wallace Screen e Wallace Screen Master",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
